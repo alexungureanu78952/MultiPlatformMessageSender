@@ -1,0 +1,19 @@
+{
+  "credentials": {
+    "gmail": {
+      "user": "your_email@gmail.com",
+      "app_password": "your 16 character app password here"
+    }
+  },
+  "recipient": {
+    "name": "Recipient Name",
+    "email": "recipient@example.com",
+    "whatsapp_phone": "+1234567890"
+  },
+  "message": {
+    "subject": "Your Email Subject",
+    "text": "Your email message text with image attachments",
+    "whatsapp_caption": "Your WhatsApp message text"
+  },
+  "images_folder": "images"
+}
